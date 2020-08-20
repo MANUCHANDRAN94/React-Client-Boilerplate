@@ -1,0 +1,10 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+
+.header a{
+    margin: 10px 10px;
+    text-decoration: none;
+    background-color: cadetblue;
+}
